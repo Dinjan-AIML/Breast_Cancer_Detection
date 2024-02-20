@@ -25,7 +25,7 @@ The model's performance was evaluated using various metrics such as accuracy, pr
 
 ## Results
 - Logistic Regression: 
-  - Accuracy: 0.989010989010989
+  - Accuracy: 0.98
 
 - Decision Tree: 
   - Accuracy: 1.00
